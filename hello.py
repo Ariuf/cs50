@@ -4,7 +4,7 @@ name = input('name: ')
 print(name)
 
 print("Hello," + name + " how u doin")
-print(f"Hello, {name} how u doin")
+print(f"Hello, {name} how are u doin")
 
 
 if name == 'Aria':
