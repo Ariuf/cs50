@@ -9,6 +9,7 @@ for i in names:
 def square(x):
     return x * x
 
-for i in range(10):
+h = int(input('set a number: '))
+for i in range(h):
     print(f'the square of {i} is {square(i)}')
 
