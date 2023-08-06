@@ -22,6 +22,6 @@ if n > 0:
 elif n == 0:
     print("number is zero")
 
-
 else:
     print("number is negetve")
+
