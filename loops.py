@@ -7,8 +7,8 @@ for i in names:
     print(i)
 
 def square(x):
-    num = x + 4
-    y = num / 4
-    return y
+    return x * x
 
-print(square(8))
+for i in range(10):
+    print(f'the square of {i} is {square(i)}')
+
